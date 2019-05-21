@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sound Box</string>
+    <string name="arrow">arrow</string>
+    <string name="bear">bear</string>
+    <string name="bomb">TODO</string>
+    <string name="claps">claps</string>
+    <string name="dog">dog</string>
+    <string name="door">door</string>
+    <string name="elephant">elephant</string>
+    <string name="forest">forest</string>
+    <string name="formula1">formula1</string>
+    <string name="ghost">ghost</string>
+    <string name="keyboard">keyboard</string>
+    <string name="lab">lab</string>
+    <string name="mouse">mouse</string>
+    <string name="ocean">ocean</string>
+    <string name="rain">rain</string>
+    <string name="rocket">rocket</string>
+    <string name="plane">plane</string>
+    <string name="snake">snake</string>
+    <string name="sword">sword</string>
+    <string name="weapon">weapon</string>
+    <string name="exit">exit</string>
+</resources>
